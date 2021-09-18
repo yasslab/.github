@@ -1,6 +1,6 @@
-[![YassLab Inc.](https://i.gyazo.com/059bb4922999e7ce71276e4e8840ecdc.png)](https://yasslab.jp/ja/)
+[![YassLab - Having a Good Life by Creating ;)](https://i.gyazo.com/fadf98b71e1e9c7d1646eaa7c4216dd7.png)](https://yasslab.jp/ja/)
 
-### YassLab社のやること
+## YassLab社のやること
 
 [YassLab社](https://yasslab.jp/ja/)では実践的なプロダクト開発を学ぶ方々を支援するため、下記サービスの開発・運用をしています 🛠💨✨
 
