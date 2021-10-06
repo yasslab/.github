@@ -33,4 +33,4 @@
 
 上記の他、小中高生クリエータ支援プログラム『[未踏ジュニア](https://jr.mitou.org/)』や、コミュニティ運営支援プログラム『[Doorkeeperスポンサーシップ](https://yasslab.jp/ja/doorkeeper/)』にも関わっています。
 
-AIITや工学院大学でも採用されたWebサービス開発を学ぶオンライン講義・研修の実施、および社内研修の内製化サポートも実施しています。詳細は[Railsチュートリアル法人プラン](https://railstutorial.jp/business)をご参照ください :relieved: 
+AIITや工学院大学でも採用されたWebサービス開発を学ぶオンライン講義・研修の実施、および社内研修の内製化サポートも実施しています。詳細は [yasslab.jp](https://yasslab.jp/ja/) をご参照ください :relieved: 
