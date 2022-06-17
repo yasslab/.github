@@ -24,7 +24,7 @@
 <br>
 
 [![coderdojo.jp](https://yasslab.jp/img/header-coderdojo-japan.png)](https://coderdojo.jp/)
-[coderdojo.jp](https://coderdojo.jp/) は、全国234ヶ所以上ある子どものためのプログラミング道場『[CoderDojo](https://coderdojo.jp/)』のWebサイトです。[パートナー法人](https://coderdojo.jp/#partners)の一社として、開発・運営に携わっています。
+[coderdojo.jp](https://coderdojo.jp/) は、全国200ヶ所以上ある子どものためのプログラミング道場『[CoderDojo](https://coderdojo.jp/)』のWebサイトです。[パートナー法人](https://coderdojo.jp/#partners)の一社として、開発・運営に携わっています。
 - :bar_chart: 統計情報: https://coderdojo.jp/stats
 - :spiral_calendar: 近日開催: https://coderdojo.jp/events
 - :octocat: [coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)
