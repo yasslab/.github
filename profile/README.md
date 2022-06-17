@@ -16,7 +16,7 @@
 <br>
 
 [![Ruby on Railsガイド](https://yasslab.jp/img/header-railsguides.png)](https://railsguides.jp/)
-[Railsガイド](https://railsguides.jp/)は、Ruby on Railsに特化した1400ページ超えの大型リファレンスです。電子書籍や全文検索、チーム向けプランも提供しています。
+[Railsガイド](https://railsguides.jp/)は、Ruby on Railsに特化した1600ページ超えの大型リファレンスです。電子書籍や全文検索、チーム向けプランも提供しています。
 - :open_book: 電子書籍: https://railsguides.jp/ebook
 - :mag: Proプラン: https://railsguides.jp/pro
 - :octocat: [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp)
