@@ -32,4 +32,3 @@
 -----
 
 上記の他、小中高生クリエータ支援プログラム『[未踏ジュニア](https://jr.mitou.org/)』や、コミュニティ運営支援プログラム『[Doorkeeperスポンサーシップ](https://yasslab.jp/ja/doorkeeper/)』などにも関わっています。詳細は [yasslab.jp](https://yasslab.jp/ja) からご確認いただけます :white_check_mark: 
------
