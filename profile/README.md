@@ -7,30 +7,29 @@
 <br>
 
 [![Ruby on Railsチュートリアル](https://yasslab.jp/img/header-railstutorial.png)](https://railsguides.jp/)
-[Railsチュートリアル](http://railstutorial.jp/)は、SNS開発やWebサイト制作が学べる大型チュートリアルです。Webテキストや解説動画、社員研修や教材利用にも対応しています。
+[Railsチュートリアル](http://railstutorial.jp/)は、SNS開発やWebサイト制作が学べる大型チュートリアルです。[解説動画](https://railstutorial.jp/screencast)や[質問対応](https://railstutorial.jp/#learn-by)、[研修支援](https://railstutorial.jp/business)や[教育支援](https://railstutorial.jp/partner)サービスなども提供しています。
 
-- :office: 社員研修: https://railstutorial.jp/business
-- :school: 教材利用: https://railstutorial.jp/partner
 - :octocat: [yasslab/sample_apps](https://github.com/yasslab/sample_apps)
+- :office: 社員研修: https://railstutorial.jp/business
+- :school: 教育支援: https://railstutorial.jp/partner
 
 <br>
 
 [![Ruby on Railsガイド](https://yasslab.jp/img/header-railsguides.png)](https://railsguides.jp/)
-[Railsガイド](https://railsguides.jp/)は、Ruby on Railsに特化した1600ページ超えの大型リファレンスです。電子書籍や全文検索、チーム向けプランも提供しています。
+[Railsガイド](https://railsguides.jp/)は、Ruby on Railsに特化した1600ページ超えの大型リファレンスです。[電子書籍](https://railsguides.jp/ebook)や[全文検索](https://railsguides.jp/pro)、[法人向け協賛プラン](https://railsguides.jp/sponsors)なども提供しています。
+- :octocat: [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp)
 - :open_book: 電子書籍: https://railsguides.jp/ebook
 - :mag: Proプラン: https://railsguides.jp/pro
-- :octocat: [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp)
 
 <br>
 
 [![coderdojo.jp](https://yasslab.jp/img/header-coderdojo-japan.png)](https://coderdojo.jp/)
-[coderdojo.jp](https://coderdojo.jp/) は、全国200ヶ所以上ある子どものためのプログラミング道場『[CoderDojo](https://coderdojo.jp/)』のWebサイトです。[パートナー法人](https://coderdojo.jp/#partners)の一社として、開発・運営に携わっています。
+[coderdojo.jp](https://coderdojo.jp/) は、全国215ヶ所以上ある子どものためのプログラミング道場『[CoderDojo](https://coderdojo.jp/)』のWebサイトです。[パートナー法人](https://coderdojo.jp/#partners)の一社として、開発・運営に携わっています。
+- :octocat: [coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)
 - :bar_chart: 統計情報: https://coderdojo.jp/stats
 - :spiral_calendar: 近日開催: https://coderdojo.jp/events
-- :octocat: [coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)
 
 -----
 
-上記の他、小中高生クリエータ支援プログラム『[未踏ジュニア](https://jr.mitou.org/)』や、コミュニティ運営支援プログラム『[Doorkeeperスポンサーシップ](https://yasslab.jp/ja/doorkeeper/)』にも関わっています。
-
-AIITや工学院大学でも採用されたWebサービス開発を学ぶオンライン講義・研修の実施、および社内研修の内製化サポートも実施しています。詳細は [yasslab.jp](https://yasslab.jp/ja/) をご参照ください :relieved: 
+上記の他、小中高生クリエータ支援プログラム『[未踏ジュニア](https://jr.mitou.org/)』や、コミュニティ運営支援プログラム『[Doorkeeperスポンサーシップ](https://yasslab.jp/ja/doorkeeper/)』などにも関わっています。詳細は [yasslab.jp](https://yasslab.jp/ja) からご確認いただけます :white_check_mark: 
+-----
