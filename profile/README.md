@@ -6,7 +6,7 @@
 
 <br>
 
-[![Ruby on Railsチュートリアル](https://yasslab.jp/img/header-railstutorial.png)](https://railsguides.jp/)
+[![Ruby on Railsチュートリアル](https://yasslab.jp/img/header-railstutorial.png)](https://railstutorial.jp/)
 [Railsチュートリアル](http://railstutorial.jp/)は、SNS開発やWebサイト制作が学べる大型チュートリアルです。[解説動画](https://railstutorial.jp/screencast)や[質問対応](https://railstutorial.jp/#learn-by)、[研修支援](https://railstutorial.jp/business)や[教育支援](https://railstutorial.jp/partner)サービスなども提供しています。
 
 - :octocat: [yasslab/sample_apps](https://github.com/yasslab/sample_apps)
@@ -15,7 +15,7 @@
 
 <br>
 
-[![Ruby on Railsガイド](https://yasslab.jp/img/header-railsguides.png)](https://railstutorial.jp/)
+[![Ruby on Railsガイド](https://yasslab.jp/img/header-railsguides.png)](https://railsguides.jp/)
 [Railsガイド](https://railsguides.jp/)は、Ruby on Railsに特化した1600ページ超えの大型リファレンスです。[電子書籍](https://railsguides.jp/ebook)や[全文検索](https://railsguides.jp/pro)、[法人向け協賛プラン](https://railsguides.jp/sponsors)なども提供しています。
 - :octocat: [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp)
 - :open_book: 電子書籍: https://railsguides.jp/ebook
