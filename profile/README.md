@@ -18,16 +18,16 @@
 [![Ruby on Railsガイド](https://yasslab.jp/img/header-railsguides.png)](https://railsguides.jp/)
 [Railsガイド](https://railsguides.jp/)は、Ruby on Railsに特化した1600ページ超えの大型リファレンスです。[電子書籍](https://railsguides.jp/ebook)や[全文検索](https://railsguides.jp/pro)、[法人向け協賛プラン](https://railsguides.jp/sponsors)なども提供しています。
 - :octocat: [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp)
-- :open_book: 電子書籍: https://railsguides.jp/ebook
 - :mag: Proプラン: https://railsguides.jp/pro
+- :handshake: 協賛プラン: https://railsguides.jp/sponsors
 
 <br>
 
 [![coderdojo.jp](https://yasslab.jp/img/header-coderdojo-japan.png)](https://coderdojo.jp/)
 [coderdojo.jp](https://coderdojo.jp/) は、全国215ヶ所以上ある子どものためのプログラミング道場『[CoderDojo](https://coderdojo.jp/)』のWebサイトです。[パートナー法人](https://coderdojo.jp/#partners)の一社として、開発・運営に携わっています。
 - :octocat: [coderdojo-japan](https://github.com/coderdojo-japan)
-- :bar_chart: 統計情報: https://coderdojo.jp/stats
-- :spiral_calendar: 近日開催: https://coderdojo.jp/events
+- :japan: 地図情報から CoderDojo 探す: https://map.coderdojo.jp/ ([GitHub](https://github.com/coderdojo-japan/map.coderdojo.jp))
+- :spiral_calendar: 近日開催から CoderDojo 探す: https://coderdojo.jp/events ([GitHub](https://github.com/coderdojo-japan/coderdojo.jp))
 
 -----
 
