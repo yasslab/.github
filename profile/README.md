@@ -31,4 +31,4 @@
 
 -----
 
-上記の他、小中高生クリエータ支援プログラム『[未踏ジュニア](https://jr.mitou.org/) ([GitHub](https://github.com/mitou/jr.mitou.org))』や、リモートワーク支援プログラム『[remotework.jp](https://remotework.jp/) ([GitHub](https://github.com/remote-jp/remote-in-japan/blob/main/README.en.md))』、コミュニティ支援プログラム『[Doorkeeperスポンサーシップ](https://yasslab.jp/ja/doorkeeper/) ([GitHub](https://github.com/yasslab/doorkeeper_sponsorship))』などにも関わっています。詳細は [yasslab.jp](https://yasslab.jp/ja) からご確認いただけます :white_check_mark: 
+上記の他、小中高生クリエータ支援プログラム『[未踏ジュニア](https://jr.mitou.org/) ([GitHub](https://github.com/mitou/jr.mitou.org))』や、リモートワーク企業まとめサイト『[remotework.jp](https://remotework.jp/) ([GitHub](https://github.com/remote-jp/remote-in-japan)』、コミュニティ支援プログラム『[Doorkeeperスポンサーシップ](https://yasslab.jp/ja/doorkeeper/) ([GitHub](https://github.com/yasslab/doorkeeper_sponsorship))』などにも関わっています。詳細は [yasslab.jp](https://yasslab.jp/ja) からご確認いただけます :white_check_mark: 
