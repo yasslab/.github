@@ -16,10 +16,10 @@
 <br>
 
 [![Ruby on Railsガイド](https://yasslab.jp/img/header-railsguides.png)](https://railsguides.jp/)
-[Railsガイド](https://railsguides.jp/)は、Ruby on Railsに特化した1600ページ超えの大型リファレンスです。[電子書籍](https://railsguides.jp/ebook)や[全文検索](https://railsguides.jp/pro)、[法人向け協賛プラン](https://railsguides.jp/sponsors)なども提供しています。
+[Railsガイド](https://railsguides.jp/)は、Ruby on Railsに特化した2,000ページ超えの大型リファレンスです。[電子書籍](https://railsguides.jp/ebook)や[全文検索](https://railsguides.jp/pro)、[法人向け協賛プラン](https://railsguides.jp/sponsors)なども提供しています。
 - :octocat: [yasslab/railsguides.jp](https://github.com/yasslab/railsguides.jp)
-- :mag: Proプラン: https://railsguides.jp/pro
-- :handshake: 協賛プラン: https://railsguides.jp/sponsors
+- :mag: Proプラン (個人向け): https://railsguides.jp/pro
+- :handshake: 協賛プラン (法人向け): https://railsguides.jp/sponsors
 
 <br>
 
