@@ -1,4 +1,4 @@
-[![YassLab - Having a Good Life by Creating ;)](https://i.gyazo.com/fadf98b71e1e9c7d1646eaa7c4216dd7.png)](https://yasslab.jp/ja/)
+[![YassLab - Having a Good Life by Creating ;)](https://yasslab.jp/img/cover-photo_ss_v2.png)](https://yasslab.jp/ja/)
 
 ## YassLab 社のやること
 
